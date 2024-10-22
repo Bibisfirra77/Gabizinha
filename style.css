@@ -1,0 +1,13 @@
+body{
+    background:rgb(219, 185, 140);;
+    color: black;
+}
+
+iframe{
+    justify-content: center;
+}
+
+.chama-velozes{
+    height: 200px;
+    align-content: center;
+}
